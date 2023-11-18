@@ -1,7 +1,3 @@
----
-title: "My portfolio"
-permalink: "/about/"
-layout: page
----
-
-## Sharing random stuff :)
+## Personal website 
+Hello World
+Just sharing random stuff :)
