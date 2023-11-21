@@ -9,6 +9,6 @@ categories: media
 附上一只小capy
 
 
-![Capy](/assets/Capy.png)
+![Capy](/assets/Capy.png, :height="50px" width="50px")
 ![Capy](:height="50px" width="50px")
 
