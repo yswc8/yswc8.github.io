@@ -1,1 +1,1 @@
-Hello. I am a freshman at Carnegie Mellon University. This is a space where I record my college experience and random thoughts.
+Hello. I am a freshman at Carnegie Mellon University.  I've decided to create this little corner of the internet to share snippets of my college experience and some random thoughts along the way.
