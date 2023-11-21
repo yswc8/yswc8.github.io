@@ -8,5 +8,5 @@ categories: media
 
 附上一只小capy
 
-<img src="Capy.png" alt="Image description" width="200" height="200">
+<img src="/assets/Capy.png" alt="Image description" width="200" height="200">
 ![Capy](/assets/Capy.png)
