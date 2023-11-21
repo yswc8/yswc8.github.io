@@ -9,4 +9,3 @@ categories: media
 附上一只小capy
 
 <img src="/assets/Capy.png" alt="Image description" width="300" height="200">
-![Capy](/assets/Capy.png)
