@@ -10,5 +10,5 @@ categories: media
 
 
 ![Capy](/assets/Capy.png)
-![Capy]{:height="50px" width="50px"}
+![Capy](:height="50px" width="50px")
 
