@@ -1,6 +1,6 @@
 title: "Cathy W"
 author: "Cathy W"
-description: "Poopy content"
+description: "Poopy content :)"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "About", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "cathyw@andrew.cmu.edu"}
+  - {title: Mail, icon: envelope, url: "xxx@andrew.cmu.edu"}
   - {title: Github, icon: github, url: "https://github.com/yswcyswc"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
