@@ -33,7 +33,7 @@ _(I spent around 17-20 hours every week on this class)_
 _(I spent around 6-10 hours every week on this class and around 15-18 hours during TP season)_
 
 **03-151 Honors Modern Biology**: an honours version of an introductory biology class focusing on the molecular aspects of biology, mainly biochem and cellular biology. The class was pretty chill, but we covered a lot of material in depth, such as cytoskeleton and spindle movement. I enjoyed the level of detail we covered in biochemistry and it provided answers to many of the "why" questions I had in high school. Our professor was very knowledgeable in his field, and it was surprising to learn about many cutting-edge advancements in biology that even chat-gpt cannot recognise.
-_(I spent around 4 hours every week if there are no exams and 8-10 hours cramming before each exam)_
+_(I spent around 4 hours every week if there are no exams and 6-8 hours cramming before each exam)_
 
 **57-181 Solfege I**: an introductory solfege class. Fairly chill and did not require extra time after lectures. The core content was to identify musical intervals and dictate short melodies. Quite helpful in transcribing music in the future. I was planning to take it with Eurthymics I for a music minor, but didn't get off the waitlist for that class.
 _(I spent around 2-3 hours every week only for the lectures)_
