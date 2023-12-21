@@ -21,7 +21,7 @@ Offering a review on the courses I took at CMU.
 
 76101 Intepretation and Arguments
 
-67250 The information systems milieux
+67250 The information systems milieux / 02250 Introduction to computational biology
 
 
 ### Fall 2023
