@@ -35,7 +35,7 @@ Offering a review on the courses I took at CMU.
 **03151 Honors Modern Biology**: an honours version of an introductory biology class focusing on the molecular aspects of biology, mainly biochem and cellular biology. The class was pretty chill, but we covered a lot of material in depth, such as cytoskeleton and spindle movement. I enjoyed the level of detail we covered in biochemistry and it provided answers to many of the "why" questions I had in high school. Our professor was very knowledgeable in his field, and it was surprising to discover many cutting-edge advancements in biology that even chat-gpt cannot recognize.
 (I spent around 4 hours every week if there are no exams and 8-10 hours for cramming before each exam)
 
-**57181 SOLFEGE I**: an introductory solfege class. Fairly chill and did not require extra time after lectures. The core content was to identify musical intervals and dictate short melodies. Quite helpful in transcribing music in the future. I was planning to take it with Eurthymics I for a music minor, but didn't get off the waitlist for that class.
+**57181 Solfege I**: an introductory solfege class. Fairly chill and did not require extra time after lectures. The core content was to identify musical intervals and dictate short melodies. Quite helpful in transcribing music in the future. I was planning to take it with Eurthymics I for a music minor, but didn't get off the waitlist for that class.
 (I spent around 2-3 hours every week only for the lectures)
 
 **Eureka: discovery & impact**: a compulsory class for me to take. Was OK. 
