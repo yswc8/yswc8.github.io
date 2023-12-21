@@ -41,6 +41,6 @@ Offering a review on the courses I took at CMU.
 **Eureka: discovery & impact**: a compulsory class for me to take. Was OK. 
 (I spent around 3 horus every week only for the lectures)
 
-> Reflection: I only took 43 units this semester, which was supposed to help me adjust to college life easily. However, I found that Concepts was taking much more time than expected. Coming from a relatively chill high school that was much less competitive than CMU, I haven't established godo study habits and struggled with this transition into college. 
+> Reflection: I only took 43 units this semester, which was supposed to help me adjust to college life easily. However, I found that Concepts was taking much more time than expected. Coming from a relatively chill high school that was much less competitive than CMU, I haven't established good study habits and struggled with this transition into college. 
 
 Pre-college credits using IB: 21120 Calculus I, 21122 Calculus II, 09105 Modern Chemistry I 
