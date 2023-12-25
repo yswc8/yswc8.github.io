@@ -12,6 +12,6 @@ Overview:
 
 * Day 3: Boston Common, Beacon Hill, The daily catch (lunch), Quincy market, Tea Party, Ruka (dinner)
 
-* Day 4: Waldon, Soulongtang (lunch), Revere Beach, Dryft (dinner), airport, leave Boston at night
+* Day 4: Walden, Soulongtang (lunch), Revere Beach, Dryft (dinner), airport, leave Boston at night
 
 (will be updated)
