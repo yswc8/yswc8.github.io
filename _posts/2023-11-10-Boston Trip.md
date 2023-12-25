@@ -6,7 +6,7 @@ Overview:
 
 ✰ are the ones that I particularly enjoyed
 
-! are the ones that are relatively average IMO
+! are the ones that are relatively average in my opinion
 
 * Day 0: Arrive at Boston at night, hotel
 
