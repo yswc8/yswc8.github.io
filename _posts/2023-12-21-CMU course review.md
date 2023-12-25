@@ -7,7 +7,7 @@ Offering a review on the courses I took at CMU.
 
 ! are the ones that are particularly time consuming for me.
 
-✰ are the ones that are worth taking.
+✰ are the ones that are particularly worth taking.
 
 ## Freshman Year
 
