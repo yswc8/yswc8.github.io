@@ -39,7 +39,7 @@ _(I spent around 4 hours every week if there are no exams and 6-8 hours cramming
 _(I spent around 2-3 hours every week only for the lectures)_
 
 **38-101 Eureka: discovery & impact**: a compulsory class for me to take. Was OK. 
-_(I spent around 3 hours every week only for the lectures)_
+_(I spent around 3-4 hours every week only for the lectures)_
 
 > Reflection: I only took 43 units this semester, which was supposed to help me adjust to college life easily. However, I found that Concepts was taking much more time than expected. Coming from a relatively chill high school that was much less competitive than CMU, I haven't established good study habits and struggled with this transition into college. Hopefully, next semester will be better. 
 
