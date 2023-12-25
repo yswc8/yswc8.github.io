@@ -2,7 +2,11 @@
 title: "Boston Trip (2023 Fall Break)"
 layout: post
 ---
-Overview: 
+General information: 
+
+4 days 4 night. Went there with 3 friends. No cars. Relied on public transport. 
+
+Overview:
 
 ✰ are the ones that I particularly enjoyed
 
