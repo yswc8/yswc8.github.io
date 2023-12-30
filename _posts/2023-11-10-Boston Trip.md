@@ -22,9 +22,9 @@ Overview:
 
 Some pics: 
 
-<img src="/assets/bos1.jpg" alt="Bos street view" width="302" height="403"> Boston street view after rain
+<img src="/assets/bos1.jpg" alt="Bos street view" width="302" height="403"> Boston's street view after rain
 <img src="/assets/bos2.jpg" alt="Pedestrian zone" width="302" height="403"> Pedestrian zone sign
-<img src="/assets/bos3.jpg" alt="Squirrel" width="302" height="403"> Squirrel at Boston Common
+<img src="/assets/bos3.jpg" alt="Squirrel" width="302" height="403"> A squirrel at Boston Common
 <img src="/assets/bos4.jpg" alt="John Harvard" width="302" height="403"> John Harvard's statue
 
 (will be updated)
