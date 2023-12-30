@@ -23,8 +23,11 @@ Overview:
 Some pics: 
 
 <img src="/assets/bos1.jpg" alt="Bos street view" width="302" height="403"> 
+
 <img src="/assets/bos2.jpg" alt="Pedestrian zone" width="302" height="403"> 
+
 <img src="/assets/bos3.jpg" alt="Squirrel" width="302" height="403"> 
+
 <img src="/assets/bos4.jpg" alt="John Harvard" width="302" height="403"> 
 
 (will be updated)
