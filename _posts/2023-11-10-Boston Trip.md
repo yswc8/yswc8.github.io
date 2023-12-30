@@ -30,6 +30,6 @@ Overview:
 
 <img src="/assets/bos5.jpg" alt="Harvard gate" width="403" height="302">
 
-<img src="/assets/bos6.jpg" alt="Milk street" width="109" height="81">
+<img src="/assets/bos6.jpg" alt="Milk street" width="209" height="162">
 
 (will be updated)
