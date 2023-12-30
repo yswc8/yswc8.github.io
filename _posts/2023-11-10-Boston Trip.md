@@ -21,15 +21,10 @@ Overview:
 * Day 4: ✰ Walden, Soulongtang (lunch), Revere Beach, Dryft (dinner), airport, leave Boston at night
 
 <img src="/assets/bos1.jpg" alt="Bos street view" width="302" height="403">
-
-<img src="/assets/bos2.jpg" alt="Pedestrian zone" width="141" height="188">
-
+<img src="/assets/bos2.jpg" alt="Pedestrian zone" width="302" height="403">
 <img src="/assets/bos3.jpg" alt="Squirrel" width="302" height="403">
-
 <img src="/assets/bos4.jpg" alt="John Harvard" width="302" height="403">
-
 <img src="/assets/bos5.jpg" alt="Harvard gate" width="403" height="302">
-
-<img src="/assets/bos6.jpg" alt="Milk street" width="209" height="162">
+<img src="/assets/bos6.jpg" alt="Milk street" width="403" height="302">
 
 (will be updated)
