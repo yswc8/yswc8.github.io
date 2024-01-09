@@ -6,5 +6,5 @@ I am Cathy, a freshman at Carnegie Mellon University. I've decided to create thi
 
 Also, check out [my sister's blog](https://rzlife.github.io) where she writes... A LOT.
 
-<img src="/assets/capyy.jpg" alt="capybara" width="200" height="200">
+<img src="/assets/png" alt="capybara" width="200" height="200">
 
