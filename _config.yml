@@ -10,7 +10,7 @@ date_format: "%B %d, %Y"
 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
 # Menu
@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "aboutMe.md", title: "About", icon: address-card}
   - {file: "index.html", title: "Posts", icon: home}
-  - {title: "Test", icon: edit}
+  - {title: "Test", icon: Edit}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "没整好qaq@andrew.cmu.edu"}
