@@ -9,7 +9,27 @@ Offering a review on the courses I took at CMU.
 
 ✰ are the ones that are particularly worth taking.
 
+## Sophmore Year
+
+### Fall 2024 
+
+36225 Introduction to Probability Theory
+
+21241 Matrices and Linear Transformation
+
+15150 Principles of Functional Programming 
+
+36200 Reasoning with Data
+
+09219 Modern Organic Chemistry I
+
+
+
 ## Freshman Year
+
+### Summer 2024
+
+15213 Introduction to computer systems
 
 ### Spring 2024 
 
@@ -21,7 +41,7 @@ Offering a review on the courses I took at CMU.
 
 76101 Intepretation and Arguments
 
-67250 The information systems milieux / 02250 Introduction to computational biology
+67250 The information systems milieux 
 
 
 ### Fall 2023
