@@ -23,6 +23,9 @@ Offering a review on the courses I took at CMU.
 
 09219 Modern Organic Chemistry I
 
+99367 IDEATE: Pragmatic photography 
+
+99358 IDEATE: Introduction to Unity and 3D Modelling
 
 
 ## Freshman Year
@@ -31,21 +34,21 @@ Offering a review on the courses I took at CMU.
 
 15213 Introduction to computer systems
 
-Summer research
+Research
 
 ### Spring 2024 
 
-15122 Principles of Imperative Computation 
+- **15122 Principles of Imperative Computation**
 
-09106 Modern Chemistry II
+- **09106 Modern Chemistry II**
 
-73102 Principles of Microeconomics
+- **73102 Principles of Microeconomics**
 
-76101 Intepretation and Arguments
+- **76101 Intepretation and Arguments**
 
-67250 The information systems milieux 
+- **67250 The Information Systems milieux**
 
-> Reflection: This semester was light. I declared a chemistry major on a computational chemistry track.
+> Reflection: This semester was light with only 49 units. I declared a chemistry major on a computational chemistry track.
 
 ### Fall 2023
 
