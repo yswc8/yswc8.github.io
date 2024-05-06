@@ -13,28 +13,28 @@ Offering a review on the courses I took at CMU.
 
 ### Fall 2024 
 
-36225 Introduction to Probability Theory
+- 36225 Introduction to Probability Theory
 
-21241 Matrices and Linear Transformation
+- 21241 Matrices and Linear Transformation
 
-15150 Principles of Functional Programming 
+- 15150 Principles of Functional Programming 
 
-36200 Reasoning with Data
+- 36200 Reasoning with Data
 
-67262 Database Design and Development / 09219 Modern Organic Chemistry I
+- 67262 Database Design and Development / 09219 Modern Organic Chemistry I
 
-99367 IDEATE: Pragmatic photography 
+- 99367 IDEATE: Pragmatic photography 
 
-99358 IDEATE: Introduction to Unity and 3D Modelling
+- 99358 IDEATE: Introduction to Unity and 3D Modelling
 
 
 ## Freshman Year
 
 ### Summer 2024
 
-15213 Introduction to Computer Systems
+- 15213 Introduction to Computer Systems
 
-Research
+- Research
 
 ### Spring 2024 
 
