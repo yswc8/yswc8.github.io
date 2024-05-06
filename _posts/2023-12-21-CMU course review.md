@@ -32,7 +32,7 @@ Offering a review on the courses I took at CMU.
 
 ### Summer 2024
 
-15213 Introduction to computer systems
+15213 Introduction to Computer Systems
 
 Research
 
