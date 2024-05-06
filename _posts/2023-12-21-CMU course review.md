@@ -21,7 +21,7 @@ Offering a review on the courses I took at CMU.
 
 - 36200 Reasoning with Data
 
-- 67262 Database Design and Development / 09219 Modern Organic Chemistry I
+- 67262 Database Design and Development 
 
 - 99367 IDEATE: Pragmatic photography 
 
