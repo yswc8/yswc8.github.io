@@ -41,7 +41,7 @@ Offering a review on the courses I took at CMU.
 - **15122 Principles of Imperative Computation**: a cs core that exposes you to data structures. Concepts such as linked lists and AVL rotations were interesting to learn, but not so much for the others. The labs were okay, with the last few challenging to debug in C and the OH queues for those were around 2-3 hours long. However, the exams were difficult. I experienced stressful time constraints in all of the exams and for the first exam, I left the last 3 pages blank. 
 _(I spent around 13-15 hours every week)_ 
 
-- **09106 Modern Chemistry II**: a fairly easy chemistry core that covers thermo, kinetics, equilibrium, acids/bases... A few concepts such as pseudo rate law took a while to understand but the test questions are relatively formulaic. However, I didn't like the weekly quizzes (sometimes twice a week) and the 8pm recitations. Overall a chill class with generous grading.
+- **09106 Modern Chemistry II**: a fairly easy chemistry core that covers thermo, kinetics, equilibrium, acids/bases... A few concepts such as pseudo rate law took a while to understand but the test questions were relatively formulaic. However, the weekly quizzes (sometimes twice a week) and the 8pm recitations were slightly annoying. Overall a chill class with generous grading.
 _(I spent around 7 hours every week)_ 
 
 - **73102 Principles of Microeconomics**: an introductory microeconomics class that has a heavy focus on game theory and its application in the industries. The first 1/3 was extremely light as it overlaps with high school micro. The rest is mathy with a lot of calculations. I wouldn't classify it as the most engaging and easiest gen-ed, but it did not take up much time for me.
