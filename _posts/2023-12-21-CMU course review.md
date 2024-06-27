@@ -38,7 +38,7 @@ Offering a review on the courses I took at CMU.
 
 ### Spring 2024 
 
-- **15-122 Principles of Imperative Computation**: a cs core that exposes you to data structures. Concepts such as linked lists and AVL rotations were interesting to learn, but not so much for the others. The labs were okay, with the last few challenging to debug in C and the OH queues for those were around 2-3 hours long. However, the exams were difficult. I experienced stressful time constraints in all of the exams and for the first exam, I left the last 3 pages blank. 
+- **15-122 Principles of Imperative Computation**: a cs core that exposes you to data structures. Concepts such as linked lists and AVL rotations were interesting to learn, but the others not so much. The labs were okay, with the last few challenging to debug in C and the OH queues for those were around 2-3 hours long. The least enjoyable part of the course were the exams. I experienced stressful time constraints in all of the exams, and for the first exam, I remember leaving nearly 3 pages blank. When reviewing the marks I lost after the exam, I feel like most can be avoided if I just had more time. The median for all exams were in the low 70s and there were no curves for this course.
 _(I spent around 13-15 hours every week)_ 
 
 - **09-106 Modern Chemistry II**: a fairly easy chemistry core that covers thermo, kinetics, equilibrium, acids/bases... A few concepts such as pseudo rate law took a while to understand but the test questions were relatively formulaic. However, the weekly quizzes (sometimes twice a week) and the 8pm recitations were slightly annoying. Overall a chill class with generous grading.
