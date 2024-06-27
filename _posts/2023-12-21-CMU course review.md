@@ -44,13 +44,13 @@ _(I spent around 13-15 hours every week)_
 - **09-106 Modern Chemistry II**: a fairly easy chemistry core that covers thermo, kinetics, equilibrium, acids/bases... A few concepts such as pseudo rate law took a while to understand but the test questions were relatively formulaic. However, the weekly quizzes (sometimes twice a week) and the 8pm recitations were slightly annoying. Overall a chill class with generous grading.
 _(I spent around 7 hours every week)_ 
 
-- **73-102 Principles of Microeconomics**: an introductory microeconomics class that has a heavy focus on game theory and its application in the industries. The first 1/3 was extremely light as it overlaps with high school micro. The rest is mathy with a lot of calculations. I wouldn't classify it as the most engaging and easiest gen-ed, but it did not take up much time for me.
+- **73-102 Principles of Microeconomics**: an introductory microeconomics class that has a heavy focus on game theory and market competition. The first 1/3 was extremely light as it overlaps with IB economics. The rest is mathy with a lot of calculations and logic. I also found the questions to by highly hypothetical and theoretical with low correlation to real world cases or economic policies, which I enjoyed learning about in high school. Therefore, I wouldn't classify it as the most engaging or easiest gen-ed, but it did not take up much time for me.
 _(I spent around 5 hours every week)_ 
 
-- **76-101 Intepretation and Arguments**: an extremely easy writing class. I have never received such high scores in essays back in high school.
+- **76-101 Intepretation and Arguments**: an extremely easy writing class (depends on the instructor). I have never received such high scores in essays back in high school. I almost feel like I didn't learn anything new.
 _(I spent around 4 hours every week)_ 
 
-- **67-250 The Information Systems milieux**: a first year IS class that covers web dev (HTML/CSS, JS), SQL, and conceptual topics such as the business aspect of IS. It has a relatively moderate workload and requires consistent effort throughout the semester.
+- **67-250 The Information Systems milieux**: a first year IS class that covers the basics of web dev (HTML/CSS, JS), SQL databases, and conceptual topics such as the business aspect of IS. It has a relatively moderate workload and requires consistent effort throughout the semester since there is an essay (case study) and 2 large projects. 
 _(I spent around 9 hours every week)_ 
 
 > Reflection: This semester was light with only 49 units. I declared a chemistry major on a computational chemistry track. Honestly speaking, I didn't really enjoy any of the classes I took this semester and questioned a lot about my major choice and career goals. 
