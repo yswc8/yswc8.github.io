@@ -13,19 +13,19 @@ Offering a review on the courses I took at CMU.
 
 ### Fall 2024 
 
-- 36225 Introduction to Probability Theory
+- **36225 Introduction to Probability Theory**
 
-- 21241 Matrices and Linear Transformation
+- **21241 Matrices and Linear Transformation**
 
-- 15150 Principles of Functional Programming 
+- **15150 Principles of Functional Programming** 
 
-- 36200 Reasoning with Data
+- **36200 Reasoning with Data**
 
-- 67262 Database Design and Development 
+- **67262 Database Design and Development** 
 
-- 99367 IDEATE: Pragmatic photography 
+- **99367 IDEATE: Pragmatic photography** 
 
-- 99358 IDEATE: Introduction to Unity and 3D Modelling
+- **99358 IDEATE: Introduction to Unity and 3D Modelling**
 
 
 ## Freshman Year
@@ -41,16 +41,16 @@ Offering a review on the courses I took at CMU.
 - **15-122 Principles of Imperative Computation**: a cs core that exposes you to data structures. Concepts such as linked lists, stacks/queues and AVL rotations were interesting to learn, but the others not so much. The labs were okay, with the last few challenging to debug in C and the OH queues for those were around 2-3 hours long. The least enjoyable part of the course were the exams. I experienced stressful time constraints in all of the exams, and for the first exam, I remember leaving nearly 3 pages blank. When reviewing the marks I lost after the exam, I feel like most can be avoided if I just had more time. The median for all exams were in the low 70s and there were no curves for this course.
 _(I spent around 13-15 hours every week)_ 
 
-- **09-106 Modern Chemistry II**: a fairly easy chemistry core that covers thermo, kinetics, equilibrium, acids/bases... A few concepts such as pseudo rate law took a while to understand but the test questions were relatively formulaic. However, the weekly quizzes (sometimes twice a week) and the 8pm recitations were slightly annoying. Overall a chill class with generous grading.
+- **09-106 Modern Chemistry II**: a fairly easy chemistry core that covers thermo, kinetics, equilibrium, acids/bases... The only concept that took a while to understand was pseudo rate law, but the test questions were relatively formulaic. The weekly quizzes (sometimes twice a week) and the 8pm recitations were annoying. Overall a chill class with generous grading.
 _(I spent around 7 hours every week)_ 
 
-- **73-102 Principles of Microeconomics**: an introductory microeconomics class that has a heavy focus on game theory and market competition. The first 1/3 was extremely light as it overlaps with IB economics. The rest is mathy with a lot of calculations and logic. I also found the questions to by highly hypothetical and theoretical with low correlation to real world cases or economic policies, which I enjoyed learning about in high school. Therefore, I wouldn't classify it as the most engaging or easiest gen-ed, but it did not take up much time for me.
+- **73-102 Principles of Microeconomics**: an introductory microeconomics class that has a heavy focus on game theory and market competition. The first 1/3 was extremely light as it overlaps with IB economics. The rest is mathy with a lot of calculations and logic. I also found the questions to be highly hypothetical and theoretical with low correlation to real world cases or economic policies, which I enjoyed learning about in high school. Therefore, I wouldn't classify it as the most engaging or easiest gen-ed, but it did not take up much time for me.
 _(I spent around 5 hours every week)_ 
 
 - **76-101 Intepretation and Arguments**: an extremely easy writing class (depends on the instructor). I have never received such high scores in essays back in high school. I almost feel like I didn't learn anything new.
 _(I spent around 4 hours every week)_ 
 
-- **67-250 The Information Systems milieux**: a first year IS class that covers the basics of web dev (HTML/CSS, JS), SQL databases, and conceptual topics such as the business aspect of IS. It has a relatively moderate workload and requires consistent effort throughout the semester since there is an essay (case study) and 2 large projects. 
+- **67-250 The Information Systems milieux**: a first year IS class that covered the basics of web dev (HTML/CSS, JS), SQL databases, and conceptual topics such as the business aspect of IS. It had a moderate workload and requires consistent effort throughout the semester since there was an essay (case study) and 2 large projects. 
 _(I spent around 9 hours every week)_ 
 
 > Reflection: This semester was light with only 49 units. I declared a chemistry major on a computational chemistry track. Honestly speaking, I didn't really enjoy any of the classes I took this semester and questioned a lot about my major choice and career goals. 
