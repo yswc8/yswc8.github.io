@@ -32,7 +32,8 @@ Offering a review on the courses I took at CMU.
 
 ### Summer 2024
 
-- **15-213 Introduction to Computer Systems**
+* **✰ 15-213 Introduction to Computer Systems**: This core computer science course offers extensive systems knowledge. I learned a great deal, from assembly language to memory models, network programming, and concurrent programming. The labs are extremely beneficial for understanding the course content, and I enjoyed most of them, despite their difficulty. The final malloc lab was particularly rewarding, fun, yet challenging to debug. In order of decreasing difficulty, the labs are: Shell > Malloc Final > Cache > Proxy > Shark File System > Malloc Checkpoint > Bomb > Attack > C Programming. In hindsight, the course was worth the effort and extra money I invested this summer.A short review on all the labs:
+  
 
 - **99-270 Summer Undergraduate Research Apprenticeship**
 
